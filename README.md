@@ -16,6 +16,5 @@ Projects I completed for Codecademy's "Data and Programming Foundations for AI" 
    pip install nltk
    pip install beautifulsoup4
    ```
-6. Import the dependencies: `import pandas, sklearn, matplotlib, seaborn, nltk, bs4`
-7. Launch Jupyter Notebook: `jupyter notebook`
-8. Navigate to this GitHub Repository  
+6. Launch Jupyter Notebook: `jupyter notebook`
+7. Navigate to your clone of this GitHub Repository  
